@@ -1,0 +1,6 @@
+node_modules
+dist
+qa
+# local-only: lists where files came from on the author's PC
+capture-log.md
+scripts/build-media.mjs
